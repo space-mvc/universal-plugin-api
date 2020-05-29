@@ -13,7 +13,7 @@ This plugin can create an instant Laravel API service controller by controller
 ```
 
 
-- 2) Run `composer require centralhubb/universal-plugin-api`
+- 2) Run `composer require space-mvc/universal-plugin-api`
 - 3) Create a new controller and extend the Universal\Plugin\Api class 
 - 4) Override the $modelName with your selected model name
 - 5) Create the standard routes.php or web.php entries as below.
