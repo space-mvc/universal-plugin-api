@@ -7,7 +7,7 @@ This plugin can create an instant Laravel API service controller by controller
 "repositories": [
     {
         "type": "vcs",
-         "url":  "git@bitbucket.org:space-mvc/universal-plugin-api.git"
+         "url":  "git@github.org:space-mvc/universal-plugin-api.git"
     }
 ],
 ```
